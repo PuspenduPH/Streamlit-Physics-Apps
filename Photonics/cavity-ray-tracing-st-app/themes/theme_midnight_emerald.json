@@ -1,0 +1,57 @@
+{
+  "name": "Midnight Emerald",
+  "description": "Deep forest-black background with emerald/gold/coral accents. General-purpose dark theme, not tied to any specific app.",
+  "mode": "dark",
+  "color": {
+    "background": {
+      "primary": "#0a1410",
+      "secondary": "#0f1f18",
+      "tertiary": "#13291f",
+      "elevated": "#173224"
+    },
+    "text": {
+      "primary": "#eafff4",
+      "secondary": "#bfe6d4",
+      "muted": "#7fa896",
+      "disabled": "#537462",
+      "on_accent": "#0a1410"
+    },
+    "border": {
+      "default": "#1f3a2c",
+      "strong": "#234636",
+      "subtle": "#152b20"
+    },
+    "accent": {
+      "primary": "#2ee6a8",
+      "secondary": "#f0c674",
+      "tertiary": "#ff8a65",
+      "quaternary": "#6ee7b7"
+    },
+    "semantic": {
+      "success": "#2ee6a8",
+      "warning": "#f0c674",
+      "error": "#ff8a65",
+      "info": "#6ee7b7",
+      "link": "#6ee7b7"
+    }
+  },
+  "gradient": {
+    "background": "radial-gradient(circle at 8% 0%, #133627 0%, #0a1410 34%, #040a07 100%)",
+    "accent_bar": "linear-gradient(90deg, #2ee6a8, #f0c674, #ff8a65, #6ee7b7)"
+  },
+  "typography": {
+    "font_sans": "Inter, ui-sans-serif, system-ui, sans-serif",
+    "font_mono": "'Space Mono', ui-monospace, monospace",
+    "google_fonts_import": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Space+Mono:wght@400;700&display=swap"
+  },
+  "radius": {
+    "sm": "8px",
+    "md": "12px",
+    "lg": "18px",
+    "pill": "99px"
+  },
+  "shadow": {
+    "glow_accent": "0 0 24px #2ee6a844",
+    "card": "0 4px 18px rgba(0,0,0,0.35)"
+  }
+}

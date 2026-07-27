@@ -1,0 +1,57 @@
+{
+  "name": "Solar Graphite",
+  "description": "Warm charcoal background with muted coral/teal/amber accents. General-purpose dark theme, not tied to any specific app.",
+  "mode": "dark",
+  "color": {
+    "background": {
+      "primary": "#1a1614",
+      "secondary": "#211c19",
+      "tertiary": "#262019",
+      "elevated": "#2c251f"
+    },
+    "text": {
+      "primary": "#f4ece2",
+      "secondary": "#d3c6b7",
+      "muted": "#9c9186",
+      "disabled": "#6b6259",
+      "on_accent": "#1a1614"
+    },
+    "border": {
+      "default": "#362d24",
+      "strong": "#3d332a",
+      "subtle": "#2a231d"
+    },
+    "accent": {
+      "primary": "#e0623f",
+      "secondary": "#4fb0a5",
+      "tertiary": "#e3a857",
+      "quaternary": "#c9a227"
+    },
+    "semantic": {
+      "success": "#6fb98f",
+      "warning": "#e3a857",
+      "error": "#e0623f",
+      "info": "#4fb0a5",
+      "link": "#4fb0a5"
+    }
+  },
+  "gradient": {
+    "background": "radial-gradient(circle at 8% 0%, #2b2119 0%, #1a1614 34%, #0c0a08 100%)",
+    "accent_bar": "linear-gradient(90deg, #e0623f, #4fb0a5, #e3a857, #c9a227)"
+  },
+  "typography": {
+    "font_sans": "Inter, ui-sans-serif, system-ui, sans-serif",
+    "font_mono": "'Space Mono', ui-monospace, monospace",
+    "google_fonts_import": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Space+Mono:wght@400;700&display=swap"
+  },
+  "radius": {
+    "sm": "8px",
+    "md": "12px",
+    "lg": "18px",
+    "pill": "99px"
+  },
+  "shadow": {
+    "glow_accent": "0 0 24px #e0623f33",
+    "card": "0 4px 18px rgba(0,0,0,0.35)"
+  }
+}

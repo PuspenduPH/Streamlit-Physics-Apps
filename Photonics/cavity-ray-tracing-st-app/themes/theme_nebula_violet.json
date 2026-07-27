@@ -1,0 +1,57 @@
+{
+  "name": "Nebula Violet",
+  "description": "Deep cosmic indigo background with magenta/violet/gold accents. General-purpose dark theme, not tied to any specific app.",
+  "mode": "dark",
+  "color": {
+    "background": {
+      "primary": "#0d0b1a",
+      "secondary": "#17142b",
+      "tertiary": "#1c1836",
+      "elevated": "#211d40"
+    },
+    "text": {
+      "primary": "#f1edff",
+      "secondary": "#c9c0e8",
+      "muted": "#a89bc9",
+      "disabled": "#645a86",
+      "on_accent": "#0d0b1a"
+    },
+    "border": {
+      "default": "#2a2450",
+      "strong": "#322a5c",
+      "subtle": "#1e1a3a"
+    },
+    "accent": {
+      "primary": "#ff5fa8",
+      "secondary": "#8b7bff",
+      "tertiary": "#ffd166",
+      "quaternary": "#ffb84d"
+    },
+    "semantic": {
+      "success": "#4ade80",
+      "warning": "#ffb84d",
+      "error": "#ff5f7a",
+      "info": "#8b7bff",
+      "link": "#8b7bff"
+    }
+  },
+  "gradient": {
+    "background": "radial-gradient(circle at 8% 0%, #241a45 0%, #0d0b1a 34%, #050308 100%)",
+    "accent_bar": "linear-gradient(90deg, #ff5fa8, #8b7bff, #ffd166, #ffb84d)"
+  },
+  "typography": {
+    "font_sans": "Inter, ui-sans-serif, system-ui, sans-serif",
+    "font_mono": "'Space Mono', ui-monospace, monospace",
+    "google_fonts_import": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Space+Mono:wght@400;700&display=swap"
+  },
+  "radius": {
+    "sm": "8px",
+    "md": "12px",
+    "lg": "18px",
+    "pill": "99px"
+  },
+  "shadow": {
+    "glow_accent": "0 0 24px #ff5fa844",
+    "card": "0 4px 18px rgba(0,0,0,0.35)"
+  }
+}

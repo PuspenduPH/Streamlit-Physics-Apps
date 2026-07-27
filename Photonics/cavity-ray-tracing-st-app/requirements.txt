@@ -1,0 +1,16 @@
+# Optical Cavity Ray Tracing — Streamlit App
+# Core framework
+streamlit>=1.35.0
+
+# Plotting (Plotly native figure + frame animation)
+plotly>=5.22.0
+
+# Numerics (ABCD matrix math, ray propagation arrays)
+numpy>=1.26.0
+
+# Static image export from Plotly figures
+kaleido>=0.2.1
+
+# MP4 export: per-frame PNG → video mux
+imageio>=2.34.0
+imageio-ffmpeg>=0.5.0

@@ -1,0 +1,57 @@
+{
+  "name": "Cyberpunk Slate",
+  "description": "Near-black slate background with electric magenta/cyan/yellow accents. General-purpose dark theme, not tied to any specific app.",
+  "mode": "dark",
+  "color": {
+    "background": {
+      "primary": "#08090d",
+      "secondary": "#0e1016",
+      "tertiary": "#12141c",
+      "elevated": "#171a24"
+    },
+    "text": {
+      "primary": "#eafcff",
+      "secondary": "#b8cadb",
+      "muted": "#6f7a8c",
+      "disabled": "#4a5261",
+      "on_accent": "#08090d"
+    },
+    "border": {
+      "default": "#262c38",
+      "strong": "#232838",
+      "subtle": "#1a1e28"
+    },
+    "accent": {
+      "primary": "#ff2fb0",
+      "secondary": "#29d3ff",
+      "tertiary": "#f5ff3d",
+      "quaternary": "#ff9d1f"
+    },
+    "semantic": {
+      "success": "#3dff9d",
+      "warning": "#ff9d1f",
+      "error": "#ff2f5e",
+      "info": "#29d3ff",
+      "link": "#29d3ff"
+    }
+  },
+  "gradient": {
+    "background": "radial-gradient(circle at 8% 0%, #151a26 0%, #08090d 34%, #020204 100%)",
+    "accent_bar": "linear-gradient(90deg, #ff2fb0, #29d3ff, #f5ff3d, #ff9d1f)"
+  },
+  "typography": {
+    "font_sans": "Inter, ui-sans-serif, system-ui, sans-serif",
+    "font_mono": "'Space Mono', ui-monospace, monospace",
+    "google_fonts_import": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Space+Mono:wght@400;700&display=swap"
+  },
+  "radius": {
+    "sm": "8px",
+    "md": "12px",
+    "lg": "18px",
+    "pill": "99px"
+  },
+  "shadow": {
+    "glow_accent": "0 0 24px #29d3ff44",
+    "card": "0 4px 18px rgba(0,0,0,0.35)"
+  }
+}
