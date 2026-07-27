@@ -1,0 +1,6 @@
+[submodule "Classical Mechanics/simple-harmonic-motion-st-app"]
+	path = Classical Mechanics/simple-harmonic-motion-st-app
+	url = https://github.com/PuspenduPH/simple-harmonic-motion-st-app.git
+[submodule "Classical Mechanics/coupled-oscillations-streamlit-app"]
+	path = Classical Mechanics/coupled-oscillations-streamlit-app
+	url = https://github.com/PuspenduPH/coupled-oscillations-streamlit-app.git
