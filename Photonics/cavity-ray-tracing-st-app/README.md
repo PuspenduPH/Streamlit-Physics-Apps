@@ -6,6 +6,14 @@
   <em>A modern, interactive Streamlit application for simulating and visualizing paraxial ray tracing within optical resonators using ABCD matrix formalism.</em>
 </p>
 
+
+<p align="center">
+  <a href="https://cavity-ray-tracing-st-app-6vdnykghvhzvizcqsglaqj.streamlit.app/" target="_blank">
+    <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Streamlit App">
+  </a>
+</p>
+
+
 <p align="center">
   <img alt="Python version" src="https://img.shields.io/badge/python-3.9%2B-blue">
   <img alt="Streamlit version" src="https://img.shields.io/badge/streamlit-1.35.0%2B-red">
@@ -15,6 +23,15 @@
 </p>
 
 <hr/>
+
+
+## 🌐 Live Demo
+
+Try the interactive app instantly on Streamlit Cloud without local setup:
+
+👉 **[Launch Optical Cavity Ray Tracing App](https://cavity-ray-tracing-st-app-6vdnykghvhzvizcqsglaqj.streamlit.app/)**
+
+---
 
 ## ✨ Features
 
